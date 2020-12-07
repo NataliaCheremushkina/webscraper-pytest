@@ -11,7 +11,7 @@ from errors import NoQuotes, UnsupportedQuery
 query_oneway = {
     'from_place': 'KTM',
     'to_place': 'BIR',
-    'flight_date': '2020-11-01',
+    'flight_date': '2021-05-12',
     'return_date': 'null',
     'nationality': 'NP',
     'trip_type': 'O',
